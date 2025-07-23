@@ -1,0 +1,13 @@
+# Ignorar a pasta venv
+venv/
+
+# Ignorar arquivos .pyc
+*.pyc
+
+# Ignorar pasta __pycache__
+__pycache__/
+
+.env/
+*.pyc
+*.html
+.ipynb_checkpoints/
